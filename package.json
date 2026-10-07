@@ -1,0 +1,1 @@
+{"name":"supabase-js-admin-throwonerror-repro","version":"1.0.0","private":true,"description":"Minimal reproduction: supabase-js auth.admin methods ignore throwOnError","type":"module","scripts":{"start":"node admin-throwonerror-repro.mjs"},"dependencies":{"@supabase/supabase-js":"^2"}}
